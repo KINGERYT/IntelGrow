@@ -16,3 +16,6 @@ weather conditions, sunlight, and time.
 Additionally, we have incorporated an AIpowered system to detect the moisture levels
 inside the pot and add the necessary amount of
 water
+
+We have used python ,arduino , html and css.
+
